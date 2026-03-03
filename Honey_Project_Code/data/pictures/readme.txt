@@ -1,0 +1,1 @@
+These sample images need to be extracted from the 'jpg.rar' compressed file
